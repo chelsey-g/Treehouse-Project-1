@@ -30,13 +30,13 @@ a:hover {
   min-height: 30px;
   padding: 10px;
   position: fixed;
-  text-align: right;
+  text-align: center;
 }
 .nav {
   display: flex;
   justify-content: space-around;
   font-family: Copperplate, Papyrus, fantasy;
-  font-weight: 13px;
+  font-weight: 700;
   list-style-type: none;
   margin: 0 auto;
   padding: 0;
