@@ -38,8 +38,12 @@ a:hover {
   font-family: Copperplate, Papyrus, fantasy;
   font-weight: 700;
   list-style-type: none;
-  margin: 0 auto;
-  padding: 0;
+  margin: 0px auto;
+  padding: 0px;
+  color: black;
+  min-width: 320px;
+  position: relative;
+  transition: box-shadow 250ms;
 }
 
 .nav .name {
