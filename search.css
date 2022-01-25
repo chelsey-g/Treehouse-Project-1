@@ -36,6 +36,7 @@ section header ul li {
 
 section header ul li a {
   color: #111;
+  list-style: none;
   text-decoration: none;
   font-size: 13px;
 }
